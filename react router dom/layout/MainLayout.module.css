@@ -1,0 +1,29 @@
+header{
+    background-color: blanchedalmond;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.rightSection{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.menu .menuItems li{
+    cursor: pointer;
+
+}
+.menu .menuItems li a{
+    color:black;
+    text-decoration: none;
+    
+
+
+}
+.menuItems{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    justify-content: space-between;
+}
